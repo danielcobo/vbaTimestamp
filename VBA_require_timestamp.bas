@@ -1,4 +1,4 @@
-Attribute VB_Name = "timestamp_"
+Attribute VB_Name = "VBA_require_timestamp"
 Option Explicit
 
 'Returns current timestamp in "yyyy-MM-dd hh:mm:ss" format
